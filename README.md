@@ -1,4 +1,4 @@
-# thesis
+# Thesis
 
 Code for my thesis, using MiB setup with incremental learning (with Maximum Square Loss).
 Original github MiB: https://github.com/fcdl94/MiB
