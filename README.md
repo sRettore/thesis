@@ -2,6 +2,7 @@
 
 Code for my personal thesis, using MiB setup with incremental learning (with Maximum Square Loss).
 Original github MiB: https://github.com/fcdl94/MiB
+
 Original github MSQ: https://github.com/fcdl94/MiB
 
 To run the code:
